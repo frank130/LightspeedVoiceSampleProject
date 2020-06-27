@@ -1,0 +1,32 @@
+Author:Frank Ryan
+
+
+	DataBase Outline
+
+Stuart -> E-commerce website(FALSE), Websocket Updates(TRUE), Angular Upgrade(TRUE)
+Tyler -> E-commerce website(TRUE), Websocket Updates(FALSE), Angular Upgrade(FALSE)
+Adam -> E-commerce website(TRUE), Websocket Updates(FALSE), Angular Upgrade(FALSE)
+Lan -> E-commerce website(FALSE), Websocket Updates(FALSE), Angular Upgrade(TRUE)
+
+	WebsocketProjects
+Add to Socket.IO -> Stuart, 2 Hours
+Enable Broadcasting -> Stuart, 3 Hours
+Adjust Interface -> Stuart, 5 Hours
+
+	EcommerceProjects
+Product Pages -> Adam, 5 Hours
+Shopping Cart -> Tyler, 10 Hours
+My Account -> Adam, 5 Hours
+
+	AngularProjects
+Upgrade Angular -> Lan, 15 Hours
+Fix Broken Things -> Stuart, 10 Hours
+Test -> Lan, 10 Hours
+
+
+
+
+
+
+
+
